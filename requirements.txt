@@ -1,1 +1,3 @@
-Copy the contents of the environment.yaml from snowflake
+#Copy the contents of the environment.yaml from snowflake
+snowflake-snowpark-python
+streamlit
